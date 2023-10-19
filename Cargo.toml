@@ -1,0 +1,7 @@
+[package]
+name = "composint"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+composint-macro = { path = "./composint-macro" }
